@@ -1,4 +1,4 @@
-#Agates Network Application Guidelines
+# Agates Network Application Guidelines
 ## 1. About AGAT
 AGAT is the fundamental unit for benefit distribution in Agates Network project.  
 
@@ -148,6 +148,6 @@ When the un-confirmed blocks reach a certain number (**N**), the mining machine 
   * **Exclusive and considerable Staking Allowance** You can find the detailed description of Staking Allowance in the AGAT Staking page.
   * **Many other exclusive benefits and privileges** You can find more detailed descriptions in the AGAT Staking page.
 * Each user can participate in AGAT Staking multiple times, and the above benefits for each AGAT Staking will be calculated separately based on the respective take-effect time.
-* The staking period of AGAT Staking starts when each staking takes effect and ends when the Agates Mainnet is released. When the Agates Mainnet is released, all the staked cryptocurrencies will be exchanged for equivalent AGAT coins at 10% of the AGAT market price.
+* The staking period of AGAT Stake starts when each pledge takes effect and ends when the Agates mainnet is released. When the Agates mainnet is released, AGAT Stakers can choose to release all the pledged cryptocurrencies in order, or exchange all pledged cryptocurrencies for equivalent AGAT coins at 10% of the AGAT market price.
 * In addition, every core user who recognizes the values and ideals of the Agates Network project can earn Referral Staking Reward of up to 20% of the total staking amount in batches by promoting AGAT Staking.
 * Staking is a common benefit mechanism in blockchain projects. While obtaining staking benefits, all stakers also need to fully understand the detailed rules of staking to be aware of the possible risks. The unique feature of AGAT Staking is that during the staking period, AGAT Stakers will regularly receive benefits in the form of USDT or others as hedge for any potential risks.
