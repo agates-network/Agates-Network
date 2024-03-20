@@ -37,18 +37,6 @@ When you click each block to confirm it, you will receive a certain number (**A*
 When the un-confirmed blocks reach a certain number (**N**), the mining machine will stop working until you confirm them, and then the mining machine will start working again.
 * In this rule, each miner's T, A, and N values are different, depending on the total amount of Referral AGAT (**RA** in short, which is the Credited AGAT mined with the help of your referrals, including the following Referral Mining Bonus, Referral Purchase Mining, and Referral Staking Mining) you have mined.  
 * The more Referral AGAT you have mined, the more Credited AGAT you will mine for free.
-* Please see the table for details:  
-
-| RA Amout | T in minutes | A per Block | N Blocks | Max Amount per Day|
-| :----: |:----: |:----: |:----: |:----: |
-|0|120|5|5|60|
-|1,000|120|10|6|120|
-|2,000|90|15|7|240|
-|5,000|90|25|8|400|
-|10,000|60|35|9|840|
-|20,000|60|50|10|1,200|
-|50,000|30|75|11|3,600|
-|100,000|30|100|12|4,800|
 
 
 #### 2.2.2 Purchase Mining
