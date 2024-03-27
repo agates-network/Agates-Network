@@ -45,7 +45,7 @@ The unique and innovative features of the AGATES NETWORK project include:
 * **Business Ecosystem:** Agates Network establishes a comprehensive business ecosystem, encompassing various goods, services, applications, and partnerships. This ecosystem promotes collaboration, innovation, and value creation within the network.
 * **Universal Ownership:** The ownership of Agates Network is distributed among all participants, emphasizing a decentralized and community-driven approach to governance and decision-making.
 * **Free Circulation:** AGAT tokens within the Agates Network ecosystem can freely circulate among users, enabling seamless transactions and interactions within the network.
-* **Flexible Supply and Burning Mechanism:** Agates Network implements an flexible supply mechanism, adjusting the AGAT supply based on demand to maintain stability. Additionally, there is a burning mechanism with several plans in place to reduce the AGAT supply over time, enhancing scarcity and potentially increasing value.
+* **Flexible Supply and Burning Mechanism:** Agates Network implements a flexible supply mechanism, adjusting the AGAT supply based on demand to maintain stability. Additionally, there is a burning mechanism with several plans in place to reduce the AGAT supply over time, enhancing scarcity and potentially increasing value.
 * **Staking Model:** Users can participate in the Agates Network by staking their cryptocurrencies, which involves locking up a certain amount of cryptocurrency to earn rewards or benefits. This mechanism incentivize user investment and support, thus ensuring a sense of ownership and alignment of interests.
 * **Localization Operations:** Agates Network focuses on global development and has established localized promotion and operations teams in major countries and regions around the world to meet the needs and preferences of users in different regions.
 
@@ -63,7 +63,7 @@ Users holding AGAT enjoy the shareholder rights of the Agates Network project, i
 * **Payment for Smart Contracts:**
 AGAT acts as a universal value certificate for paying smart contract execution to enable automated, seamless code execution without security review within the Agates Network ecosystem.
 * **Payment for Goods and Services:**
-AGAT functions as an cryptocurrency for direct payments and can be directly used to pay for various products and services within the Agates Network ecosystem.
+AGAT functions as a cryptocurrency for direct payments and can be directly used to pay for various products and services within the Agates Network ecosystem.
 * **Certificate of Governance Privileges:**
 Agates Network adopts an inclusive "all-people-owned" operating model. Each user's voting influence is directly related to the number of AGAT coins they own.
 
