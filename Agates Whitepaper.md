@@ -1053,7 +1053,7 @@ While the project party is dedicated to ensuring transparency and legality, it i
 * Scope of Disclaimer:	The project party explicitly declares that, to the extent permitted by law, it holds no responsibility for any direct or indirect losses incurred by users through project participation. Users are strongly advised to carefully read the disclaimer before engaging in the project and to assume the corresponding risks within the legal framework.
 
 # 15. Contact
-* **Official Website:** [https://agates.me/](https://agates.me/)	(Opening Soon)
-* **Contact Email:**	[agates.network@gmail.com](mailTo:agates.network@gmail.com)
+* **Official Website:** [https://agates.ai/](https://agates.ai/)	(Opening Soon)
+* **Contact Email:**	[contact@agates.ai](mailTo:contact@agates.ai)
 * **Official Update:**		[https://t.me/AgatesUpdate](https://t.me/AgatesUpdate)
 * **Official Group:**		[https://t.me/AgatesCommunity](https://t.me/AgatesCommunity)
