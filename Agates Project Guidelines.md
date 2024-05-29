@@ -92,8 +92,8 @@ Meanwhile, the management and implementation of the project will be responsible 
 ## 8. Learn More
 Please learn more about the AGATES NETWORK project through following methods:
 
-* Official Website: [https://agates.me](https://agates.me)
+* Official Website: [https://agates.ai](https://agates.ai)
 * Agates Whitepaper: [https://github.com/agates-network/whitepaper](https://github.com/agates-network/welcome/blob/main/Agates%20Whitepaper.md)
 * Telegram Group: [@AgatesCommunity](https://t.me/AgatesCommunity)
 * CEO Telegram: [Frank](https://t.me/frankyang1988)
-* Email: <a href="mailto:agates.network@gmail.com">agates.network@gmail.com</a>
+* Email: <a href="mailto:contact@agates.ai">contact@agates.ai</a>
