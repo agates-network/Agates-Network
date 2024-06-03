@@ -30,7 +30,7 @@ All users who have successfully registered an Agates Network account and obtaine
 >100 × 0.025 + 100 × 100 × 0.01 + 100 × 100 × 100 × 0.005 = 5102.5 USDT (51.025 USDT per referral for **A**)
 
 ### 4.2. AGAT Rewards
-1. During this "Agates Network Referral Boost" campaign, each time one of your referrals meets the "valid referral" criteria, you will instantly receive an additional 1,000 Credited AGAT as a reward.
+1. During this "Agates Network Referral Boost" campaign, each time one of your referrals meets the "valid referral" requirements(mines a total of **1,000 Credited AGAT** through Daily Mining, Mining Bonus, and Referral Mining Bonus), you will instantly receive an additional 1,000 Credited AGAT as a reward.
 2. For each new user you invite, you will immediately receive 5,000 Crediting AGAT. These 5,000 Crediting AGAT will gradually convert into Credited AGAT as the new user progresses in their mining activities. Please refer to the "Referral Mining Bonus" section in the "How to mine?" rules in the App for more details.
 3. The more Credited AGAT you mine, the more USDT rewards you will earn through various activities such as Mining Reward, Holding Dividends, and Promoting Bonus.
 
