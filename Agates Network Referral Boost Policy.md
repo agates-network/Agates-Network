@@ -11,7 +11,7 @@ All users who have successfully registered an Agates Network account and obtaine
 
 ## 4. Incentives
 ### 4.1. USDT Rewards
-### 4.1.1. Rules
+#### 4.1.1. Rules
 *For ease of understanding, the following uses "**A** invites **B**, **B** invites **C**, **C** invites **D**, ..." as example*
 
 1. When **A** invites **B** to register for an Agates ID, and **B** mines a total of **1,000 Credited AGAT** through Daily Mining, Mining Bonus, and Referral Mining Bonus, **B** will be counted as a "valid referral" for **A**.
@@ -19,7 +19,7 @@ All users who have successfully registered an Agates Network account and obtaine
 3. When **B** successfully invites **C**, **A** will receive 0.01 USDT as referral reward, while **B** receives 0.025 USDT at the same time.
 4. When **C** successfully invites **D**, **A** will receive 0.005 USDT as referral reward, while **B** receives 0.01 USDT, and **C** receives 0.025 USDT at the same time.
 
-### 4.1.2. Examples
+#### 4.1.2. Examples
 1. If **A** invites 20 **B** in total, each **B** invites 20 **C** in average, and each **C** invites 20 **D** in average, then, **A** will receive:
 >20 × 0.025 + 20 × 20 × 0.01 + 20 × 20 × 20 × 0.005 = 44.5 USDT (2.225 USDT per referral for **A**)
 2. If **A** invites 30 **B** in total, each **B** invites 30 **C** in average, and each **C** invites 30 **D** in average, then, **A** will receive:
