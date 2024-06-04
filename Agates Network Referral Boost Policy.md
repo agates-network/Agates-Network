@@ -4,7 +4,7 @@
 This **Agates Network Referral Boost** campaign aims to quickly build an initial user base for Agates Network through a referral incentive program. This will enable the timely launch of rewards activities such as Mining Reward, Holding Dividend, and Promoting Bonus within the Agates Network app, driving rapid and sustainable growth of the whole project.
 
 ## 2. Goal
-The goal of this campaign is to achieve a total of 200,000 active registrations worldwide within 3 months after the official launch of Agates Network.
+The goal of this campaign is to achieve a total of 200,000 active registrations worldwide within 100 days after the official launch of Agates Network.
 
 ## 3. Paticipants
 All users who have successfully registered an Agates Network account and obtained a unique Agates ID can participate in this campaign, including not only users who join before this campaign starts, but also users who are invited to join by others during this campaign.
@@ -30,15 +30,17 @@ All users who have successfully registered an Agates Network account and obtaine
 >100 × 0.025 + 100 × 100 × 0.01 + 100 × 100 × 100 × 0.005 = 5102.5 USDT (51.025 USDT per referral for **A**)
 
 ### 4.2. AGAT Rewards
-1. During this "Agates Network Referral Boost" campaign, each time one of your referrals meets the "valid referral" requirements(mines a total of **1,000 Credited AGAT** through Daily Mining, Mining Bonus, and Referral Mining Bonus), you will instantly receive an additional 1,000 Credited AGAT as a reward.
+1. During this **Agates Network Referral Boost** campaign, each time one of your referrals meets the "valid referral" requirements(mines a total of **1,000 Credited AGAT** through Daily Mining, Mining Bonus, and Referral Mining Bonus), you will instantly receive an additional 1,000 Credited AGAT as a reward.
 2. For each new user you invite, you will immediately receive 5,000 Crediting AGAT. These 5,000 Crediting AGAT will gradually convert into Credited AGAT as the new user progresses in their mining activities. Please refer to the "Referral Mining Bonus" section in the "How to mine?" rules in the App for more details.
 3. The more Credited AGAT you mine, the more USDT rewards you will earn through various activities such as Mining Reward, Holding Dividends, and Promoting Bonus.
 
+### 4.3. Achievement Bonus
+1. Upon reaching the goal of 200,000 active users within 100 days, we will issue an additional 1,000 USDT, distributed proportionally among the top 100 promoters based on the number of invitations.
+2. Upon reaching the goal of 200,000 active users within 100 days, we will airdrop an additional 100 million Credited AGAT to all active users.
 
-### 4.3. Withdrawal
-All referral rewards will be deposited into the withdrawable USDT account in each participant's Agates Wallet every day based on the participant's actual invitation performance.
-
-These rewards can be withdrawn to personal wallet at any time according to the withdrawal rules.
+### 4.4. Withdrawal
+1. All rewards will be deposited into the withdrawable USDT account in each participant's Agates Wallet every day based on the participant's actual invitation performance.
+2. These rewards can be withdrawn to personal wallet at any time according to the withdrawal rules.
 
 ## 5. Participating Process
 1. Complete registration for Agates Network and obtain your unique referral link with your Agates ID (which is also your invitation code) in the Invite page.
@@ -48,7 +50,7 @@ These rewards can be withdrawn to personal wallet at any time according to the w
 
 ## 6. Campaign Period
 1. **Start Date**: The campaign begins after the Agates Network application completes testing and is officially released to global users on Google Play.
-1. **End Date**: The campaign ends **3 months** after the start date or once the goal of **200,000** valid global registrations is achieved, whichever comes first.
+1. **End Date**: The campaign ends **100 days** after the start date or once the goal of **200,000** valid global registrations is achieved, whichever comes first.
 
 ## 7. Anti-cheat
 The Agates Network team will use various technical means to monitor the behavior of each Agates ID to determine whether they are real users.
