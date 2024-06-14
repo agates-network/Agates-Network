@@ -29,6 +29,10 @@ All users who have successfully registered an Agates Network account and obtaine
 4. If **A** invites 100 **B** in total, each **B** invites 100 **C** in average, and each **C** invites 100 **D** in average, then, **A** will receive:
 >100 × 0.025 + 100 × 100 × 0.01 + 100 × 100 × 100 × 0.005 = 5102.5 USDT (51.025 USDT per referral for **A**)
 
+#### 4.1.3. Withdrawal
+1. All rewards will be deposited into the withdrawable USDT account in each participant's Agates Wallet every day based on the participant's actual invitation performance.
+2. These rewards can be withdrawn to personal wallet at any time according to the withdrawal rules.
+
 ### 4.2. AGAT Rewards
 1. During this **Agates Network Referral Boost** campaign, each time one of your referrals meets the "valid referral" requirements(mine a total of **1,000 Credited AGAT** through Daily Mining, Mining Bonus, and Referral Mining Bonus), you will instantly receive an additional 1,000 Credited AGAT as a reward.
 2. For each new user you invite, you will immediately receive 5,000 Crediting AGAT. These 5,000 Crediting AGAT will be gradually converted into Credited AGAT as he/she progresses in his/her mining activities. Please refer to the "Referral Mining Bonus" section in the "How to mine AGAT?" rules page in Agates Network application for more details.
@@ -38,9 +42,10 @@ All users who have successfully registered an Agates Network account and obtaine
 1. Upon reaching the goal of 200,000 active users within 100 days, we will issue an additional 1,000 USDT, distributed proportionally among the top 100 promoters based on the number of invitations.
 2. Upon reaching the goal of 200,000 active users within 100 days, we will airdrop an additional 100 million Credited AGAT to all active users.
 
-### 4.4. Withdrawal
-1. All rewards will be deposited into the withdrawable USDT account in each participant's Agates Wallet every day based on the participant's actual invitation performance.
-2. These rewards can be withdrawn to personal wallet at any time according to the withdrawal rules.
+### 4.4. Agates Partner Qualification
+1. The Agates Network project aims to establish extensive Local Teams in key countries and regions globally to advance the principles, vision, and products of the Agates Network. This initiative is designed to enhance global recognition, drive user growth, and expand our business ecosystem.
+2. The CEO and members of each local team will receive exclusive benefits from the project's development, acting as strategic partners of the Agates Network. For detailed information about the "Agates Local Team", please refer to [Agates Local Team Charter](https://github.com/agates-network/Agates-Network/blob/main/Agates%20Local%20Team%20Charter.md).
+3. The Agates Network team will select partners for each local team based on their performance in this Agates Network Referral Boost campaign.
 
 ## 5. Participating Process
 1. Complete registration for Agates Network and obtain your unique referral link with your Agates ID (which is also your invitation code) in the Invite page.
