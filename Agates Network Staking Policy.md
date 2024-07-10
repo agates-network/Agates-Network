@@ -49,13 +49,13 @@
 5. Regardless of the staking release situation, the stakers will no longer receive the corresponding staking benefits. However, any AGAT and USDT benefits obtained during the staking period will remain with the staker and will not be affected in any way.
 
 ## 6. Participation Method
-* The Agates Network team plans to release the online staking feature along with the Agates KYC feature once the user base reaches 100,000. Eligible users can then complete AGAT Staking within the Agates Network application.  
-* Prior to this, interested users who meet the eligibility requirements can participate by emailing ceo@agates.ai with their Agates ID, staking amount, personal name, nationality, residence, and corresponding identity documents.
+1. The Agates Network team plans to release the online staking feature along with the Agates KYC feature once the user base reaches 100,000. Eligible users can then complete AGAT Staking within the Agates Network application.  
+2. Prior to this, interested users who meet the eligibility requirements can participate by emailing ceo@agates.ai with their Agates ID, staking amount, personal name, nationality, residence, and corresponding identity documents.
 
 ## 7. Special Instructions
-* Crypto staking is a common beneficial mechanism in blockchain industry. Participants should understand the detailed rules and potential risks associated with staking. The unique aspect of AGAT Staking is that all AGAT Staking participants will regularly receive USDT or other forms of benefits to mitigate potential risks.  
-* The Agates Network DAO will periodically propose and implement rule adjustments based on project needs, subject to approval by the Management Committee.
+1. Crypto staking is a common beneficial mechanism in blockchain industry. Participants should understand the detailed rules and potential risks associated with staking. The unique aspect of AGAT Staking is that all AGAT Staking participants will regularly receive USDT or other forms of benefits to mitigate potential risks.  
+2. The Agates Network DAO will periodically propose and implement rule adjustments based on project needs, subject to approval by the Management Committee.
 
 ## 8. Customer Support
-* For questions about the Agates Network project, please email [contact@agates.ai](mailTo:contact@agates.ai).
-* For inquiries about AGAT Staking, please email [ceo@agates.ai](mailTo:ceo@agates.ai).
+1. For questions about the Agates Network project, please email [contact@agates.ai](mailTo:contact@agates.ai).
+2. For inquiries about AGAT Staking, please email [ceo@agates.ai](mailTo:ceo@agates.ai).
