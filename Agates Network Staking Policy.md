@@ -43,7 +43,7 @@
 	* For stakings of more than 24 months, the release fee  will be 10% of the total staking amount.
 
 4. From the effective date of each staking, if AGAT gets listed on exchanges within 24 months, the staker can choose one of the following two options:
-	* 100% redemption of all staked cryptocurrencies in order of staking effectiveness.
+	* 100% redemption of all staked cryptocurrencies in order of the taking-effect date of each staking.
 	* Conversion of all staked cryptocurrencies into AGAT at 10% of the AGAT market price.
 
 5. Regardless of the staking release situation, the stakers will no longer receive the corresponding staking benefits. However, any AGAT and USDT benefits obtained during the staking period will remain with the staker and will not be affected in any way.
