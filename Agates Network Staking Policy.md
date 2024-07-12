@@ -1,4 +1,3 @@
-
 # Agates Network Staking Policy
 
 ## 1. Introduction
